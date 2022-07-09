@@ -23,7 +23,7 @@
            <!-- Default box -->
            <div class="card">
                <div class="card-header">
-                   <h3 class="card-title">Berisi Praktikum 9</h3>
+                   <h3 class="card-title">Berisi Praktikum 10</h3>
 
                    <div class="card-tools">
                        <!-- <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
