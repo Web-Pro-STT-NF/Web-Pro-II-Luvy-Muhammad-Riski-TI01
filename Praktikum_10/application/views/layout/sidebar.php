@@ -47,7 +47,7 @@
                        <a href="#" class="nav-link">
                            <i class="nav-icon fas fa-tachometer-alt"></i>
                            <p>
-                               Praktikum 9 dan 10
+                               Praktikum 10
                                <i class="right fas fa-angle-left"></i>
                            </p>
                        </a>
